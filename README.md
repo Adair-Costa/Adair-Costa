@@ -28,3 +28,5 @@
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
 
+## Passionate about technologies, education and changing people's lives through programming.
+
