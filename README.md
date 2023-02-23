@@ -1,7 +1,7 @@
-# Olá! Eu sou o Adair Costa 🖐️
+# Hello! I'm Adair Costa 🖐️
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adair-costa-209ba2257/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adair-costa-670aaa17b/)
 
 ![Adair-Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Adair-Costa&show_icons=true&theme=radical)
 
