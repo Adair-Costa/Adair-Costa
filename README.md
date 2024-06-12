@@ -7,7 +7,7 @@
 
 ![Adair-Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Adair-Costa&show_icons=true&theme=dracula)
 
-## Web & Mobile Design:
+## Product Designer:
 <div style="display: inline_block">
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
