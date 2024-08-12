@@ -3,7 +3,7 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adair-costa-670aaa17b/)
 [![Portfolio](https://img.shields.io/badge/portfolio-0078D4?style=for-the-badge&logo=About.me&logoColor=white
-)](https://my-portfolio-seven-dusky-35.vercel.app/)
+)](https://my-personal-portfolio-1.vercel.app/#home)
 
 ![Adair-Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Adair-Costa&show_icons=true&theme=dracula)
 
